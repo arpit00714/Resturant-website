@@ -4,12 +4,17 @@ import classes from './MealsSummary.module.css';
 const MealsSummary = () =>{
     return (
          <section className={classes.summary}>
-        <h2>Delicous Food,Delivered To you</h2>
+            <p>
+
+                Delicios Candies Best In City
+            </p>
+       
         <p>
-            Choose your favorite meal from our broad selection of available meals and enjoy a delicious lunch or dinner at home.
+            Here We Provide Pure and Good Quility Candy,
+            We always take care of Your Health
         </p>
         <p>
-            All our meals are cooked with high-quality ingredients, just-in-time and of course by experienced chefs!
+            Online delivery also Available
         </p>
     </section>
     );
